@@ -1,0 +1,15 @@
+WhereAngelsFear Github
+https://github.com/WhereAngelsFear/
+
+
+Greyed Out Uninstall Option For MS Edge
+
+CMD Prompt
+
+'RegEdit' Hit enter
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Microsoft Edge
+
+NoRemove change to 0
+
+Some Systems Require A Restart / Add Remove Programs Will Allow You To Uninstall
