@@ -1,0 +1,25 @@
+WhereAngelsFear GitHub
+https://github.com/WhereAngelsFear/
+
+CMD Prompt
+
+'Services.msc' To Open The Services SnapIn
+
+Scroll Down To 'Windows Update' and Double Click It
+
+Set Start Up Type To 'Disabled'
+
+Apply And OK this change
+
+
+
+Do Not Turn Off Windows Installer!
+This Is The Add/Remove Features Installer And Will Be Blank If Disabled
+
+If You Have Router Access You Can BlackList The Following In The Firewall / Webfilter Site Blocking
+
+
+Microsoft.com
+Windows.com
+WindowsUpdate.com
+
