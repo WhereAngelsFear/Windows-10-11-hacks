@@ -11,3 +11,10 @@ Restart the System
 
 Add/Remove Programs will allow you to now uninstall Copilot
 
+You Can Remove It Directly From Shell As An Admin
+
+Get-AppxPackage -AllUsers | Where-Object {$_.Name -Like '*Microsoft.Copilot*'} | Remove-AppxPackage -AllUsers -ErrorAction Continue
+
+Once Complete
+
+winget uninstall --id Microsoft.Copilot_8wekyb3d8bbwe
