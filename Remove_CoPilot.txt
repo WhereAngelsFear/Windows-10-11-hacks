@@ -1,0 +1,13 @@
+WhereAngelsFear Github
+https://github.com/WhereAngelsFear/
+
+
+Who wants AI Taking control and forming snap shots? 
+No one, so lets make it gone
+
+Download and Run DisableCopilot.reg 
+
+Restart the System
+
+Add/Remove Programs will allow you to now uninstall Copilot
+
