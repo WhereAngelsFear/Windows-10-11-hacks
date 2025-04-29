@@ -1,0 +1,19 @@
+WhereAngelsFear Github
+https://github.com/WhereAngelsFear/
+
+
+How To Enable Godmode 
+(Control over 200 Settings)
+
+RightClick Desktop
+
+Select New Folder
+
+Click Off So Its A Normal Folder
+Right Click, Select Rename
+
+Paste The Following
+
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C} 
+
+Click Off Of It And Its Enabled
